@@ -1,0 +1,26 @@
+[
+    {
+        "username": "theWhiteFox",
+        "firstname": "Stephen",
+        "lastname": "O'Connor",
+        "gender": "Male",
+        "profileURL": "img/male.png",
+        "email": "ste@thewhitefox.ninja"
+    },
+    {
+        "username": "jane",
+        "firstname": "Jane",
+        "lastname": "Tran",
+        "gender": "Female",
+        "profileURL": "img/female.png",
+        "email": "j.tran@tiptoenails.com"
+    },
+    {
+        "username": "john",
+        "firstname": "John",
+        "lastname": "O'Brien",
+        "gender": "male",
+        "profileURL": "img/male.png",
+        "email": "john@johnobrien.killer"
+    }
+]

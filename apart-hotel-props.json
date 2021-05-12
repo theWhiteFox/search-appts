@@ -1,0 +1,199 @@
+[
+    {
+        "name": "Birmingham",
+        "cityID": 1,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "City Centre Arcadian",
+                "data-name": "arcadian-centre",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55001
+            },
+            {
+                "name": "Central Newhall Square",
+                "data-name": "newhall-square",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55002
+            }
+        ]
+    },
+    {
+        "name": "Dublin",
+        "cityID": 2,
+        "profileURL": "img/male.png",
+        "properties": [
+            {
+                "name": "Chancery Lane",
+                "data-name": "chancery-lane",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55024
+            },
+            {
+                "name": "Christchurch",
+                "data-name": "christchurch",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55003
+            },
+            {
+                "name": "Millennium Walk",
+                "data-name": "millennium-walk",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55004
+            },
+            {
+                "name": "Saint Augustine Street",
+                "data-name": "saint-augustine-street",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55005
+            }
+        ]
+    },
+    {
+        "name": "Edinburgh",
+        "cityID": 3,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "West End",
+                "data-name": "west-end",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55006
+            }
+        ]
+    },
+    {
+        "name": "Liverpool",
+        "cityID": 4,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Duke Street",
+                "data-name": "duke-street",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55007
+            },
+            {
+                "name": "Waterfront",
+                "data-name": "corn-exchange",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55023
+            }
+        ]
+    },
+    {
+        "name": "London",
+        "cityID": 5,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Deptford Bridge Station",
+                "data-name": "deptford-bridge-station",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55008
+            },
+            {
+                "name": "Greenwich High Road",
+                "data-name": "greenwich-high-road",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55009
+            },
+            {
+                "name": "Heathrow",
+                "data-name": "heathrow",
+                "opening-date": "2020-01-10T00:00:00.000Z",
+                "hotelID": 55010
+            },
+            {
+                "name": "Wilde Covent Garden",
+                "data-name": "wilde-the-strand",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55022
+            }
+        ]
+    },
+    {
+        "name": "Lyon",
+        "cityID": 6,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Rue Garibaldi",
+                "data-name": "rue-garibaldi",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55011
+            }
+        ]
+    },
+    {
+        "name": "Manchester",
+        "cityID": 7,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Piccadilly",
+                "data-name": "manchester-piccadilly",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55013
+            }
+        ]
+    },
+    {
+        "name": "Marseille",
+        "cityID": 8,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Centre Vieux Port",
+                "data-name": "centre-vieux-port",
+                "opening-date": "20159-11-02T00:00:00.000Z",
+                "hotelID": 55014
+            }
+        ]
+    },
+    {
+        "name": "Paris",
+        "cityID": 9,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Gare de l&#8217;Est",
+                "data-name": "gare-de-l-est",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55015
+            },
+            {
+                "name": "Marne la Vall&eacute;e",
+                "data-name": "marne-la-vallee",
+                "opening-date": "2019-09-07T00:00:00.000Z",
+                "hotelID": 55025
+            }
+        ]
+    },
+    {
+        "name": "York",
+        "cityID": 10,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Paragon Street",
+                "data-name": "paragon-street",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55016
+            }
+        ]
+    },
+    {
+        "name": "Venice",
+        "cityID": 11,
+        "profileURL": "img/female.png",
+        "properties": [
+            {
+                "name": "Mestre",
+                "data-name": "mestre",
+                "opening-date": "2015-06-22T00:00:00.000Z",
+                "hotelID": 55027
+            }
+        ]
+    }
+]
