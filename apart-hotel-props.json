@@ -157,13 +157,13 @@
         "profileURL": "img/female.png",
         "properties": [
             {
-                "name": "Gare de l&#8217;Est",
+                "name": "Gare de l'Est",
                 "data-name": "gare-de-l-est",
                 "opening-date": "2015-06-22T00:00:00.000Z",
                 "hotelID": 55015
             },
             {
-                "name": "Marne la Vall&eacute;e",
+                "name": "Marne la Vallée",
                 "data-name": "marne-la-vallee",
                 "opening-date": "2019-09-07T00:00:00.000Z",
                 "hotelID": 55025
